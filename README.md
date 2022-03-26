@@ -7,6 +7,14 @@
 
 > Dongdong Kong
 
+# Goals
+
+[ ] Implement functions of R `Stars`
+
+[ ] Implement functions of R `Terra`
+
+[ ] Replace the package of `nctools`
+
 # Installation
 ```
 using Pkg
