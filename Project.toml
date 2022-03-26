@@ -1,0 +1,13 @@
+name = "Terra"
+uuid = "cfcdd479-6883-4e94-b5c8-0a25d121abce"
+authors = ["Dongdong Kong <kongdd@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+DimensionalData = "0703355e-b756-11e9-17c0-8b28908087d0"
+NCDatasets = "85f8d34a-cbdd-5861-8df4-14fed0d494ab"
+Rasters = "a3a2b9e3-a471-40c9-b274-f788e487c689"
+
+[compat]
+DimensionalData = "0.20"
+NCDatasets = "0.11, 0.12"
