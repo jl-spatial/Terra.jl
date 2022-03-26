@@ -9,11 +9,11 @@
 
 # Goals
 
-[ ] Implement functions of R `Stars`
+- [ ] Implement functions of R `Stars`
 
-[ ] Implement functions of R `Terra`
+- [ ] Implement functions of R `Terra`
 
-[ ] Replace the package of `nctools`
+- [ ] Replace the package of `nctools`
 
 # Installation
 ```
